@@ -1,0 +1,30 @@
+body {
+	background-image: url("img/background/typewriter.jpg");
+	height: 100%;
+	background-attachment: fixed;
+}
+
+
+.nav-wrapper {
+	font-family: 'Dosis', sans-serif;
+}
+
+nav {
+	margin-bottom: 60vh;
+}
+
+footer {
+	margin-top: 30vh;
+}
+
+.icones {
+height: 5vh;
+}
+
+.container {
+	color: black;
+}
+
+#h4 {
+	font-family: 'Dosis', sans-serif;
+}
